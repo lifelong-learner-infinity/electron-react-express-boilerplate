@@ -13,7 +13,7 @@ Boilerplate Code to develop a Fullstack Electron App using React and Express
 
 ## Introduction
 
-This boilerplate contains all you need to start your next Fullstack Electron project, using React and Express. Simple, robust, well-organized, all you need to do is clone, install and you're ready to start.
+This boilerplate contains all you need to start your next Fullstack Electron project, using React and Express. Simple, robust, well-organized, all you need to do is clone, install and you're ready to start. The boilerplate is built on top of Electron Forge.
 
 ## Features
 
@@ -34,6 +34,6 @@ This boilerplate features all the latest tools and practices in the industry.
 
 ## Commands
 
-- `npm start` - start the dev server
+- `npm start` - start the dev application
 - `npm run package` - create a production ready build in `out` folder
 - `npm run lint` - execute an eslint check
